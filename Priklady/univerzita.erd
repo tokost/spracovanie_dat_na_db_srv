@@ -1,0 +1,20 @@
+erdiagram Model
+entity Student {
+
+    id key
+}
+entity Katedra {
+ 
+    id key
+
+}
+entity Studijna_skupina {
+
+    id key
+}
+relationship relationship1 {
+    Katedra -> Student
+}
+relationship relationship2 {
+    Studijna_skupina->Student
+}
