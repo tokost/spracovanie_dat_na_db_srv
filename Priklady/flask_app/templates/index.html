@@ -1,0 +1,28 @@
+# index.html
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>SQLite Viewer Flask</title>
+</head>
+
+<body>
+    <h1>Users</h1>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+        {% for user in users %}
+        <tr>
+            <td>{{ user[0] }}</td>
+            <td>{{ user[1] }}</td>
+            <td>{{ user[2] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>
