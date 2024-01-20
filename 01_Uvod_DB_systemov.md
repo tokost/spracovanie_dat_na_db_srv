@@ -1,6 +1,6 @@
-> # 7. Úvod do databázových systémov
+> # 01. Úvod do databázových systémov
 
-## 7.1 Definícia databázového systému
+## Definícia databázového systému
 
 Databázový systém (DBS) tvorí srdce informačného systému. Pod databázovým systémom chápeme množinu navzájom súvisiacich údajov spoločne s programovým vybavením, ktoré umožňuje prístup k týmto údajom a narábanie s nimi.
 
@@ -210,7 +210,7 @@ finally:
 		print("the sqlite connection is closed")
 ~~~
 
-># Ako zobraziť všetky stĺpce v databáze SQLite pomocou Pythonu?
+># Ako zobraziť všetky stĺpce v databáze SQLite pomocou Pythonu ?
 
 V tejto časti si ukážeme ako môžeme zobraziť všetky stĺpce tabuľky v databáze SQLite z Pythonu pomocou modulu sqlite3 . 
 Postup:
@@ -315,8 +315,3 @@ conn.commit()
 conn.close()
 ~~~ 
 
-
-
-Otázky k téme:
-
-1./ 
