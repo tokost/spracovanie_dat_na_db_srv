@@ -9,7 +9,7 @@ Priradiť index určitému poľu (hlavička stĺpca v tabuľke)= uloženie infor
 
 2./ Vytvorenie jednoznačného identifikátora príslušného záznamu (využíva sa to pri vytváraní väzieb medzi záznamami viď. súvislošť Primary a Secondary Key)
 
-### Viacpoložkové indexy a indexy špeciálneho významu
+### Zložené indexy a indexy špeciálneho významu
 
 Bežne naviac indexujeme tie **polia tabuľky**, pri ktorých je predpoklad, že **budú využité pri vyhladávaní záznamov**. 
 

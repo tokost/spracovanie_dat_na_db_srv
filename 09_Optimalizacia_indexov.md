@@ -1,5 +1,5 @@
 >## Optimalizácia indexovania
-**
+
 **Indexy** môžu poskytnúť rýchlejší prístup k údajom. Indexy môžete vytvárať, meniť, monitorovať a rušiť. Indexy sa snažíme menežovať preto aby sme ich optimalizovali a čo najlepšie naplnili ich **funkciu** t.j. **čo najrýchlejší spôsob vyhladávania údajov v databáze**.
 
 Optimalizácia indexovania alebo Datbase index management sa zaoberá riadením indexovania databázy na vlastnostiach udalostí a tokov. Ide predovšetkým o zvýšenie rýchlosťi vyhľadávania ktoré je hlavným kritériom optimalizácie indexovania. V podstate sa snažíme zúžiť celkovú oblasť vyhľadávania na oblasť v ktorej sa nachádza predmet nášho záujmu. Robíme to pridaním indexu do vyhľadávacieho dotazu.
@@ -62,7 +62,5 @@ Na analýzu alebo meranie konzistentnosti údajov sa používajú kľúčové me
 
 ![](./obrazky/konzist01.png)
 
-
-**Otázky k téme:**
 
 ./ Vysvetlite pojem konzistencie databázy a uvedte príklad.

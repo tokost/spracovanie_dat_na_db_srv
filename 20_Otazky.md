@@ -67,3 +67,71 @@ Kapitola 06:
 
 3./ Aké spôsoby obmedzenia integrity poznáte ?
 
+Kapitola 07:
+
+1./ Čo je to index ?
+
+2./ Na čo slúži index ?
+
+3./ K čomu sa priraďuje index ?
+
+4./ Čo je to zložený index ? Uvedte príklad.
+
+5./ Čo je špeciálny index ? Uvedte príklad ?
+
+6./ Aké sú druhy indexovania ? Vysvetlite rozdiel.
+
+7./ Kedy použiť a kedy nepoužiť index ?
+
+
+Kapitola 08:
+
+1./ Vysvetlite princíp Clumnstore indexu.
+
+
+Kapitola 09:
+
+1./ V čom spočíva optimalizácia indexovania ?
+
+2./ Vysvetlite pojem konzistencie databázy a uvedte príklad.
+
+
+Kapitola 10:
+
+1./ Prečo je potrebné robiť zálohovanie údajov databázy ?
+
+2./ V čom spočíva zálohovanie a obnova databázy?
+
+3./ Akým spôsobom vieme uskutočniť zálohovanie a obnovu databýzy ?
+
+4./ Čo si musíme pri zalohovaní a obnove databáz uvedomiť ?
+
+5./ Aké prípony môžu mať zalohované súbory databázy a od čoho to závisí ?
+
+6./ Prečo je vhodné robiť zálohovanie DB do formátu .sql ?
+
+
+Kapitola 11:
+
+
+Kapitola 12:
+
+1./ Ktoré fázy rozlišujeme pri programovaní databázy ?
+
+2./ Aká je úloha objektu connect ?
+
+3./ Aká je úloha objektu cursor ?
+
+
+Kapitola 13:
+
+1./ Ktoré základné operácie sa používajú pri práci s databázou ?
+
+2./ Čo je to jazyk SQL a ako sa používa pri programovaní databázy ?
+
+
+Kapitola 14:
+
+1./ Čo je to framework Flask a na čo sa používa ?
+
+2./ Akým spôsobom sa používa framework Flask ?

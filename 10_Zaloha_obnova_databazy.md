@@ -98,16 +98,3 @@ Rozdiel je iba v tom že pri exporte dostaneme aj ponuku na vytvorenie súboru v
 
 
 
-**Otázky k téme:**
-
-1./ Prečo je potrebné robiť zálohovanie údajov databázy ?
-
-2./ V čom spočíva zálohovanie a obnova databázy?
-
-3./ Akým spôsobom vieme uskutočniť zálohovanie a obnovu databýzy ?
-
-4./ Čo si musíme pri zalohovaní a obnove databáz uvedomiť ?
-
-5./ Aké prípony môžu mať zalohované súbory databázy a od čoho to závisí ?
-
-6./ Prečo je vhodné robiť zálohovanie DB do formátu .sql ?
