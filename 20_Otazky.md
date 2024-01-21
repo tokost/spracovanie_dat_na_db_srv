@@ -135,3 +135,6 @@ Kapitola 14:
 1./ Čo je to framework Flask a na čo sa používa ?
 
 2./ Akým spôsobom sa používa framework Flask ?
+
+
+Kapitola 15:
