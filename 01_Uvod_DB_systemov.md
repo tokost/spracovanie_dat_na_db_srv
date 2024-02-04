@@ -6,7 +6,7 @@ Databázový systém (DBS) tvorí srdce informačného systému. Pod databázov�
 
 ![](./obrazky/dbs01.png)
 
-Kde **DBS** – **D**ata**B**ázový **S**ystém, **SRBD** – **S**ystém **R**iadenia **B**ázy **D**át (angl. DBMS), **DB** – vlastná **D**ata**B**áza
+Kde **DBS** – **D**ata**B**ázový **S**ystém, **SRBD** – **S**ystém **R**iadenia **B**ázy **D**át (angl. DBMS), **BD** – vlastná **B**áza **D**át
 
 Systém riadenia bázy dát (SRBD) je programové vybavenie, ktoré umožní zabezpečiť všetky požadované vlastnosti databázového systému a manipulovať s údajmi.
 

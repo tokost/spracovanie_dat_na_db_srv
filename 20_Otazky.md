@@ -12,11 +12,11 @@ Kapitola 01:
 
 5./ Porovnajte relačné a nerelačné DBS z hľadiska ich výhod a nevýhod.
 
-6./ Čo je charakteristické pre relačné DB szstémy ?
+6./ Čo je charakteristické pre relačné DB systémy ?
 
 7./ Aké sú výhody a nevýhody relačných DBS ?
 
-8./ Čo je potrebné zohľadnovať pri voľbe typz DBS ?
+8./ Čo je potrebné zohľadnovať pri voľbe typu DBS ?
 
 9./ Čo obnáša správa a menežovanie DBS ?
 
@@ -59,13 +59,15 @@ Kapitola 05:
 
 Kapitola 06:
 
-1./ Čo obnáša integrita databázového systému ?
+1./ Čo je to integrita databázového systému ?
 
-2./ Čo je to obmedzenie integrity DBS ?
+2./ Čo obnáša integrita databázového systému ?
 
-3./ Aké druhy obmedzenia integrity existujú ?
+3./ Čo je to obmedzenie integrity DBS ?
 
-3./ Aké spôsoby obmedzenia integrity poznáte ?
+4./ Aké druhy obmedzenia integrity existujú ?
+
+5./ Aké spôsoby obmedzenia integrity poznáte ?
 
 Kapitola 07:
 
